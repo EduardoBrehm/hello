@@ -1,7 +1,7 @@
 <?php 
 
-$hello = 'Olá mundo';
+$nome = 'nome';
 
-echo $hello;
+echo $nome;
 
 ?>
